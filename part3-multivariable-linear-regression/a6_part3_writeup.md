@@ -17,7 +17,6 @@ Yes becuse the r-squard is closer to 1.
 10yrs old / 89k miles : $10,305.90
 20yrs old / 150k miles : $2,699.59
 
-
 4. You may notice that some of your predicted results are negative. This is occurring when the value of age and the mileage of the car are very high. Why do you think this is happening?
 
 Linear regression models arent as equipped to outliers or values that fall outside the range of the data used to train the model. If there are no examples of cars in the dataset with extremly high values then the model cant really predict as accurate according to typical market values. 
